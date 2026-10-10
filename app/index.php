@@ -50,7 +50,7 @@
      <!--Website banner-->
     <div class="banner">
         <image src="Images/Painting68-1.png" alt="Banner" class="bannerImage">
-        <p class="bannerText">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</p>
+        <p class="bannerText">Imagination leads ability, ability shapes imagination.</p>
     </div>
 
     <main>
