@@ -49,7 +49,7 @@
     <?php include "Layout/header.php"; ?>
      <!--Website banner-->
     <div class="banner">
-        <image src="Images/Painting68-1.png" alt="Banner" class="bannerImage">
+        <image src="Images/Painting68-1 (1).jpg" alt="Banner" class="bannerImage">
         <p class="bannerText">Imagination leads ability, ability shapes imagination.</p>
     </div>
 
@@ -62,7 +62,7 @@
             </div>
             <hr>
             <div class="aboutText">
-                <p>Hello, I’m <b>Jabberwock</b>, a digital illustrator from the US! Since childhood, I’ve been interested in a number of subjects, including science, math, history, and software, but drawing is different. To be able to bring beautiful scenes and compelling designs from your imagination into reality is something truly unique to art.<br><br>
+                <p>Hello, I’m <b>Nate</b>, a digital illustrator from the US! Since childhood, I’ve been interested in a number of subjects, including science, math, history, and software, but drawing is different. To be able to bring beautiful scenes and compelling designs from your imagination into reality is something truly unique to art.<br><br>
                     Yet an idea is only as powerful as your ability to bring it to life. As an artist, I want to keep honing my craft, pushing the limits of what I can bring to life, to create MORE compelling characters in MORE immersive scenes with MORE engaging narratives in MORE expansive worlds. <br><br>
                     If you like what you see and would like to see more, consider following using the links below.<br><br>
                     Thank you!
