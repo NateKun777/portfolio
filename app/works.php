@@ -55,7 +55,7 @@
 
     <link rel="stylesheet" href="styles.css?v=<?= filemtime(__DIR__ . '/styles.css') ?>">
 
-    <title>Works</title>
+    <title>works</title>
 
 </head>
 

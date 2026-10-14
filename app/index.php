@@ -40,7 +40,7 @@
 
     <link rel="stylesheet" href="styles.css?v=<?= filemtime(__DIR__ . '/styles.css') ?>">
 
-    <title>Homepage</title>
+    <title>home</title>
 
 </head>
 
